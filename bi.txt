@@ -7,6 +7,6 @@ root 6
 
 5'in solunda 4'un solunda 3'ün solunda 2'nin solunda 1'in solunda 0 bulunur
 
-7'nin sağında 8'in sağında 9 bulunur
+7'nin sağında 8'in sağında 9 bulunur.
 
 
